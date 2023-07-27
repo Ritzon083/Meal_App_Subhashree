@@ -1,4 +1,4 @@
-#hosted Link: https://apni-coding.github.io/Meals-App/
+#hosted Link: https://github.com/Ritzon083/Meal_App_Subhashree
 # Meals-App
     This project is a vanilla JavaScript application that uses TheMealDB API to search and display meals. Users can search for meals and add them     to their favourites list. The application also has a meal detail page where users can view more information about a particular meal.
 # Features
@@ -24,7 +24,7 @@
 # Contributors
     Vivek Kumar
 # Video Explanation
-    Link to video explanation:- https://youtu.be/dtNYzA1SiKw
+    Link to video explanation:- https://drive.google.com/file/d/1h8Y1DOpN1mErz3gPcC1D-WO_9I0BW9Tl/view?usp=sharing
 
 # Hosted Code
-    The code is hosted on GitHub at [https://github.com/your-username/meal-app.](https://apni-coding.github.io/Meals-App/)
+    The code is hosted on GitHub at https://github.com/Ritzon083/Meal_App_Subhashree
